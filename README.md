@@ -1,4 +1,4 @@
-SCENARIO
+**SCENARIO**
 
 
 You begin your assignment as a freelance data analyst in digital department team at Bottleneck, a very prestigious wine merchant. 
@@ -10,7 +10,7 @@ The company struggles with their current tool (ERP) to manage our resources such
 ERP is completely unrelated to company’s online sales site.
 
 
-THE DATA
+**THE DATA**
 
 
 You have access to this data, extracted directly from the company's database to CSV files. Here are the files at your disposal:
@@ -22,7 +22,7 @@ You have access to this data, extracted directly from the company's database to 
 •	web.
 
 
-SKILLS ASSESSED
+**SKILLS ASSESSED**
 
 
 •	Perform univariate analysis to interpret data
@@ -31,10 +31,11 @@ SKILLS ASSESSED
 
 •	Manage errors and inconsistencies in stored data
 
-YOUR MISSIONS
+
+**YOUR MISSIONS**
 
 
-MISSION NO. 1
+*MISSION NO. 1*
 
 •	to reconcile two exports: an ERP export containing product references, their sale price and stock status, and an export of a CMS tool table containing product information. products sold online (name, description, number of sales, etc.);
 
