@@ -1,4 +1,4 @@
-SCENARIO
+**SCENARIO**
 
 You recently joined a team of researchers from the Food and Agriculture Organization of the United Nations (FAO), as a data analyst.
 
@@ -8,7 +8,7 @@ The problem of hunger is complex and can have multiple causes, which differ from
 
 Your team is charged with carrying out a major study on the theme of undernutrition in the world.
 
-THE DATA
+**THE DATA**
 
 You have access to this data, extracted directly from the company's database to CSV files. Here are the files at your disposal:
 
@@ -20,7 +20,7 @@ You have access to this data, extracted directly from the company's database to 
 
 •	sous_nutrition.
 
-SKILLS ASSESSED
+**SKILLS ASSESSED**
 
 •	Mastering the basics of Python
 
@@ -31,9 +31,9 @@ SKILLS ASSESSED
 •	Create a development environment
 
 
-YOUR MISSIONS
+**YOUR MISSIONS**
 
-	MISSION NO. 1
+***MISSION NO. 1***
 
 	- to give an overview of the state of malnutrition in the world for the year 2017 for the following points: 
 
@@ -45,7 +45,7 @@ YOUR MISSIONS
 
 •	the use of domestic availability, in particular the share that is attributed to animal feed, that which is lost and that which is actually used for human food. 
 
-	MISSION NO. 2
+***MISSION NO. 2***
 
 	- have a more detailed study for each of the countries for the following points:
 
